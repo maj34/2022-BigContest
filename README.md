@@ -30,7 +30,7 @@
 
 ## 4. 내용
 
-<img src='https://user-images.githubusercontent.com/75362328/212460003-16818d31-4e19-4ea4-8792-1546be2b29ce.png' width="80%" height="60%">
+<img src='https://user-images.githubusercontent.com/75362328/212460003-16818d31-4e19-4ea4-8792-1546be2b29ce.png' width="100%" height="80%">
 
 &nbsp;&nbsp;&nbsp;&nbsp; Finda 앱을 통해 **대출을 신청받는 고객을 예측하는 이진 분류 문제**이다. 특정 고객이 대출 신청을 하기에는 한 가지 요소로 결정되지 않으므로 데이터 탐색 및 시각화를 통해 선정된 큰 관점인 **‘고객 상황’, ‘고객 행동’, ‘대출 상품’** 에 따라 분석을 진행하였다.
 
