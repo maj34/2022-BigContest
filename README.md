@@ -55,8 +55,6 @@
 
 ## 6. Process
 
----
-
 ### ch.1 EDA
 
 - Target 값 분석
