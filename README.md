@@ -125,7 +125,7 @@
 
 ## 8. 증빙자료
 
-[빅콘테스트 ](https://www.bigcontest.or.kr/community/view.php?No=648&gubun=notice&keyfield=&keyword=&page=1&keyCate=)
+[빅콘테스트 홈페이지](https://www.bigcontest.or.kr/community/view.php?No=648&gubun=notice&keyfield=&keyword=&page=1&keyCate=)
 
 <img src='https://user-images.githubusercontent.com/75362328/212461129-41794954-ec06-4908-9bf9-ae947f7fba6b.jpg' width='80%' height='60%'>
 <img src='https://user-images.githubusercontent.com/75362328/212461682-4bf57078-37be-47a0-a133-b31df1b92b36.jpg' width='60%' height='40%'>
