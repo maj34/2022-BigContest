@@ -45,7 +45,7 @@
 
 <br>
 
-## 5. 담당 역할
+## 5. 프로젝트 담당 역할
 
 - SMOTE-TOMEK 방법을 사용한 불균형 데이터 샘플링
 - Pycaret을 사용한 AutoML / Weight를 조정한 LGBM, Catboost 모델 학습 및 최적화
