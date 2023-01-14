@@ -16,7 +16,7 @@
 - 주관: 신한카드, LG U+, Finda, WISENUT, 제주관광공사, CJ 올리브네트웍스, KAIT 한국정보통신진흥협회
 - 후원: KBD 빅데이터포럼
 - 참가 대상: 전국 대학(원)생(휴학생 포함) - 전일제 대학(원)생만 해당
-- 성과: <span style="color:red">**2022 빅콘테스트 데이터 분석리그 퓨처스 부문 최우수상 수상**</span>
+- 성과: **2022 빅콘테스트 데이터 분석리그 퓨처스 부문 최우수상 수상**
 
 <br>
 
@@ -129,6 +129,6 @@
 
 [빅콘테스트 사이트](https://www.bigcontest.or.kr/community/view.php?No=648&gubun=notice&keyfield=&keyword=&page=1&keyCate=)
 
-<img src='https://user-images.githubusercontent.com/75362328/212461123-47f4a8c1-9bc7-44f3-92d0-58461834c2d0.jpg' width='80%' height='60%'>
 <img src='https://user-images.githubusercontent.com/75362328/212461129-41794954-ec06-4908-9bf9-ae947f7fba6b.jpg' width='80%' height='60%'>
-<img src='https://user-images.githubusercontent.com/75362328/212461135-22275f73-e31a-44ef-81a8-2c80113c7f53.jpg' width='80%' height='60%'>
+<img src='https://user-images.githubusercontent.com/75362328/212461682-4bf57078-37be-47a0-a133-b31df1b92b36.jpg' width='60%' height='40%'>
+<img src='https://user-images.githubusercontent.com/75362328/212461135-22275f73-e31a-44ef-81a8-2c80113c7f53.jpg' width='60%' height='40%'>
