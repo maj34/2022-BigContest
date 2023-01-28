@@ -118,8 +118,8 @@
 
 ## 7. 참고자료
 
-[2022 빅콘테스트 발표 자료](https://drive.google.com/file/d/1Hz6fGXc3Ie0JZlEk4dD6MuGHR_TLl2kp/view?usp=share_link)
-[유튜브 발표 영상](https://www.youtube.com/watch?v=0X0B3eQtRZA)
+[2022 빅콘테스트 발표 자료](https://drive.google.com/file/d/1Hz6fGXc3Ie0JZlEk4dD6MuGHR_TLl2kp/view?usp=share_link)  
+[유튜브 발표 영상](https://www.youtube.com/watch?v=0X0B3eQtRZA)  
 [유뷰브 인터뷰 영상](https://www.youtube.com/watch?v=oSDuCsOkMYY)
 
 <br>
